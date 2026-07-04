@@ -181,42 +181,11 @@ The dashboard includes:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push to GitHub
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
 # 👨‍💻 Author
 
 **Saniya Mir**
 
 Aspiring AI Developer | Data Analyst | Power BI Developer | Python Enthusiast
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
